@@ -1,2 +1,3 @@
-## Ini catatan saya ketika di Purwadhika Modul 1 ##  
-# Ini harusnya miring #
+# Ini Header 1 #
+## Ini Header 2 ##
+### Ini Header 3 ###
