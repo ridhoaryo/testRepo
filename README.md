@@ -51,5 +51,5 @@ Caca|25|Medan
 
 LaTex: Math Formula
 
-
+$\displaystyle \sum (x x y)$
 
